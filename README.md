@@ -8,6 +8,18 @@ Proyecto de MiniShop=> Proyecto de Aula (MiniShop) listo para instalar.
 - Docker Compose  
 - Archivo `.env` configurado (copia de `.env.example`)
 
+## Crea un archivo .env  con los siguentes datos
+
+
+   DB_HOST=193.203.166.203
+
+   DB_NAME=u647628927_pruebas
+   DB_USER=u647628927_pruebas
+   DB_PASSWORD=BG?LX8g[x3
+
+   # prefijo de tablas (colocar el número del grupo, por ejemplo: grupo1)
+   DB_PREFIX=grupo1_
+
 ## Instrucciones
 
 1. **Configura tus credenciales**  
