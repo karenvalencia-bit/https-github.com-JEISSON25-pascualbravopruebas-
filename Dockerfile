@@ -1,4 +1,4 @@
-FROM wordpress:6.4-php8.2-apache
+FROM wordpress:6.6-php8.2-apache
 
 RUN apt-get update \
  && apt-get install -y less curl \
